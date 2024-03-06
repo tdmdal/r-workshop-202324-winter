@@ -16,7 +16,7 @@ R is an open-source programming language for statistical computing and graphics.
 
     An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its [home page](https://jupyter.utoronto.ca/hub/login), choose the *RStudio* option, and click *Log in to start*. You will need your UTORid.
 
--   We will also use [Google Colab](https://colab.to/r), and I assume you all have a Google account.
+-   We will also use [Google Colab](https://colab.research.google.com/), and I assume you all have a Google account.
 
     Google Colab lets you combine code and notes in a "notebook". It is a great setup to get started with R programming.
 
