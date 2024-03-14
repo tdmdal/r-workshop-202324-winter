@@ -109,7 +109,7 @@ transformers <- reticulate::import("transformers")
 # use a pre-trained model to classify the sentiment of the transcript
 # in the addition, the model is further fine-tuned on financial news
 # https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis
-classifier <- transformers$pipeline(model = "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis")
+classifier <- transformers$pipeline(task = "text-classification", model = "mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis")
 
 # only classify those paragraph that's longer than 60 words
 transcript_long_sentence <- transcript[str_count(transcript) > 60]
