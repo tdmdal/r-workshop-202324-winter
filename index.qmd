@@ -61,7 +61,7 @@ R is an open-source programming language for statistical computing and graphics.
 - Reading list
   - [R for Data Science](https://r4ds.had.co.nz/) (Chapter 5 Data transformation, 12 Tidy data, and 13 Relational data.)
 - Handling larger-than-memory data on your laptop using Arrow (optional)
-  - Arrow, parquet, duckdb and dbplyr, the [Arrow](https://r4ds.hadley.nz/arrow) chapter in [R for Data Science (2ed)](https://r4ds.hadley.nz/arrow)
+  - Arrow, parquet, duckdb and dbplyr, the [Arrow](https://r4ds.hadley.nz/arrow) chapter in [R for Data Science (2ed)](https://r4ds.hadley.nz/)
   - [Efficient Data Analysis on Larger-than-Memory Data with DuckDB and Arrow](https://www.youtube.com/watch?v=LvTX1ZAZy6M) by Thomas Mock
   - [Doing More with Data: An Introduction to Arrow for R Users](https://www.youtube.com/watch?v=O42LUmJZPx0) by Nanielle Navarro
 
