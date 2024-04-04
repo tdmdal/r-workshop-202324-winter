@@ -83,7 +83,10 @@ R is an open-source programming language for statistical computing and graphics.
 
 ### Part 4 (Tidymodels, Time Series and Some R Finance Packages)
 
-- *Coming Soon*
+- Slides (1. [tidymodels](r_tidymodels.pdf); 2. [time series and finance packages](r_timeseries_finance_pkgs.pdf))
+- Code
+  - Tidymodels (Quarto: [tidymodels_intro.qmd](session_4/tidymodels_intro.qmd); HTML: [tidymodels_intro.html](session_4/tidymodels_intro.html))
+  - Time series and finance packages (Quarto: [part4_timeseries_finance_pkg.qmd](session_4/part4_timeseries_finance_pkg.qmd); HTML: [part4_timeseries_finance_pkg.html](session_4/part4_timeseries_finance_pkg.html))
 
 ------------------------------------------------------------------------
 
